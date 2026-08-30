@@ -16,12 +16,22 @@ Reserved Font Name: "Chemung Job"
 
 ## Download
 
-Get the fonts from the Releases page.
+The fonts live in the [`fonts/`](fonts) folder of this repository. Click a file
+below, then use the **Download raw file** button on GitHub to save it.
 
-* ChemungJob-Regular.otf for desktop
-* ChemungJob-Regular.ttf for desktop
-* ChemungJob-Regular.woff for the web
-* ChemungJob-Regular.woff2 for the web
+| File | Use |
+| --- | --- |
+| [ChemungJob-Regular.otf](fonts/ChemungJob-Regular.otf) | Desktop (OpenType) |
+| [ChemungJob-Regular.ttf](fonts/ChemungJob-Regular.ttf) | Desktop (TrueType) |
+| [ChemungJob-Regular.woff2](fonts/ChemungJob-Regular.woff2) | Web (preferred) |
+| [ChemungJob-Regular.woff](fonts/ChemungJob-Regular.woff) | Web (fallback) |
+
+To grab everything at once, download the whole repository with the green
+**Code** button above and choose **Download ZIP**. Tagged release ZIPs are also
+on the [Releases](../../releases) page.
+
+To install on your computer, open the `.otf` (or `.ttf`) file and click
+**Install**.
 
 ## Character set
 
