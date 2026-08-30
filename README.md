@@ -2,6 +2,8 @@
 
 ![Chemung Job](specimen.png)
 
+![25c. LB.](specimen-25c-lb.png)
+
 A monospaced slab serif face traced from a printed 12 point specimen sheet of
 type and borders manufactured by the Monotype and sold by the Chemung Printing
 Company of Elmira, N.Y. The source is a partial showing, so the face has only
