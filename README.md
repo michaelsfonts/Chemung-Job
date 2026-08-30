@@ -9,11 +9,6 @@ type and borders manufactured by the Monotype and sold by the Chemung Printing
 Company of Elmira, N.Y. The source is a partial showing, so the face has only
 the characters that specimen printed.
 
-Version 0.001
-Designer: Michael Seh (https://michaelsfonts.com)
-License: SIL Open Font License 1.1 (see OFL.txt)
-Reserved Font Name: "Chemung Job"
-
 ## Download
 
 The fonts live in the [`fonts/`](fonts) folder of this repository. Click a file
