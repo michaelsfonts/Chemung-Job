@@ -1,8 +1,8 @@
 # Chemung Job
 
-![Chemung Job](specimen.png)
+<img src="specimen.png" alt="Chemung Job" width="560">
 
-![25c. LB.](specimen-25c-lb.png)
+<img src="specimen-25c-lb.png" alt="25c. LB." width="380">
 
 A monospaced slab serif face traced from a printed 12 point specimen sheet of
 type and borders manufactured by the Monotype and sold by the Chemung Printing
