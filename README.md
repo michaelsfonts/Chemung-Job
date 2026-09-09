@@ -52,11 +52,13 @@ notdef glyph is empty rather than a missing glyph box.
 
 ## Web use
 
+Self-host the web files and point `@font-face` at them:
+
 ```css
 @font-face {
   font-family: "Chemung Job";
-  src: url("fonts/ChemungJob-Regular.woff2") format("woff2"),
-       url("fonts/ChemungJob-Regular.woff")  format("woff");
+  src: url("ChemungJob-Regular.woff2") format("woff2"),
+       url("ChemungJob-Regular.woff")  format("woff");
   font-weight: normal;
   font-style: normal;
 }
