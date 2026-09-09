@@ -34,14 +34,16 @@ To install on your computer, open the `.otf` (or `.ttf`) file and click
 
 ## Character set
 
-This is a partial font of 49 characters, exactly what the source specimen
-showed:
+This is a partial font. It has the 49 characters the source specimen showed,
+plus a space, for 50 encoded in all:
 
 * Capitals A to X only, with no Y or Z
 * Lowercase a to g only
 * Figures 0 to 9 except 4
 * The symbols ampersand, dollar, period, colon, semicolon, percent, number
   sign, straight double quote, and the hyphen
+* A space, which the specimen sheet did not show, advancing 600 units like
+  every other cell
 
 Any character the font does not contain types as a blank space, because the
 notdef glyph is empty rather than a missing glyph box.
