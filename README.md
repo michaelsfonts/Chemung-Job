@@ -37,7 +37,7 @@ showed:
 * Lowercase a to g only
 * Figures 0 to 9 except 4
 * The symbols ampersand, dollar, period, colon, semicolon, percent, number
-  sign, straight double quote, the hyphen, and the space
+  sign, straight double quote, and the hyphen
 
 Any character the font does not contain types as a blank space, because the
 notdef glyph is empty rather than a missing glyph box.
@@ -55,8 +55,8 @@ notdef glyph is empty rather than a missing glyph box.
 ```css
 @font-face {
   font-family: "Chemung Job";
-  src: url("ChemungJob-Regular.woff2") format("woff2"),
-       url("ChemungJob-Regular.woff")  format("woff");
+  src: url("fonts/ChemungJob-Regular.woff2") format("woff2"),
+       url("fonts/ChemungJob-Regular.woff")  format("woff");
   font-weight: normal;
   font-style: normal;
 }
